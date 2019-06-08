@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2fedf2dc0d4f820004ece31f013f875",
+    "revision": "45e01779944a982208228c6ea8fed5c6",
     "url": "/memory-game/index.html"
   },
   {
-    "revision": "9cf0289da5a84467f4a7",
-    "url": "/memory-game/static/css/main.b47c3487.chunk.css"
+    "revision": "21f37fcbc047f58dca38",
+    "url": "/memory-game/static/css/main.8fb578c4.chunk.css"
   },
   {
     "revision": "9a5bc4e9ca798b4abef4",
     "url": "/memory-game/static/js/2.5c56366d.chunk.js"
   },
   {
-    "revision": "9cf0289da5a84467f4a7",
-    "url": "/memory-game/static/js/main.b29f68e6.chunk.js"
+    "revision": "21f37fcbc047f58dca38",
+    "url": "/memory-game/static/js/main.0ac4b5d9.chunk.js"
   },
   {
     "revision": "799512f57ffe7b17c145",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9b05bcfe8c559daf53a2d792f686fe7b",
     "url": "/memory-game/static/media/apple_empty.9b05bcfe.svg"
+  },
+  {
+    "revision": "47729c53c19de2b5de89df711f85c208",
+    "url": "/memory-game/static/media/card_back.47729c53.jpg"
   },
   {
     "revision": "0a6b561a9d99533b6b9e25843ccf3d25",
