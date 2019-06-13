@@ -2,7 +2,7 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://puneet-ahuja.github.io/memory-game",
+  "homepage": "https://puneetahuja.in/memory-game",
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.8.6",
